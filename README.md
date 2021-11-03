@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rodgers</h1>
 <h3 align="center">A passionate passionate full-stack web developer from North Carolina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodgers31" alt="rodgers31" /></a> </p>
-
 - 🔭 I’m currently working on [Coder Heros](https://github.com/Lambda-School-Labs/coder-heroes-fe)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native, Swift**
+
+- 👨‍💻 All of my projects are available at [https://myportfolio-lssvjvhya-rodgers31.vercel.app/](https://myportfolio-lssvjvhya-rodgers31.vercel.app/)
 
 - 💬 Ask me about **React, CSS, Responsive Design, sematic HTML,**
 
 - 📫 How to reach me **otienor986@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Lopw_6iKwp6oFByaOr-iN2ayy4ggKZpiugR1KNp7jjs/edit?usp=sharing](https://docs.google.com/document/d/1Lopw_6iKwp6oFByaOr-iN2ayy4ggKZpiugR1KNp7jjs/edit?usp=sharing)
+
+- ⚡ Fun fact **I can speak 4 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodgers31&show_icons=true&locale=en&layout=compact" alt="rodgers31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodgers31&show_icons=true&locale=en" alt="rodgers31" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodgers31&" alt="rodgers31" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodgers31&show_icons=true&locale=en&layout=compact" alt="rodgers31" /></p>
