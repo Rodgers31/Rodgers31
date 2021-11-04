@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-lssvjvhya-rodgers31.vercel.app/](https://myportfolio-lssvjvhya-rodgers31.vercel.app/)
 
-- 💬 Ask me about **React, CSS, Responsive Design, Sematic HTML,**
+- 💬 Ask me about **React, CSS, Responsive Design, Sematic HTML**
 
 - 📫 How to reach me **otienor986@gmail.com**
 
