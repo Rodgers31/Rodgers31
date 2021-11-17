@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodgers</h1>
-<h3 align="center">A passionate passionate full-stack web developer from North Carolina</h3>
+<h3 align="center">A passionate full-stack web developer from North Carolina with comprehensive knowledge of platform development, agile methodologies, cloud services, and front-end and server-side application development.</h3>
 
 - 🔭 I’m currently working on [Coder Heros](https://github.com/Lambda-School-Labs/coder-heroes-fe)
 
