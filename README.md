@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, CSS, Responsive Design, Sematic HTML**
 
-- 📫 How to reach me **otienor986@gmail.com**
+- 📫 How to reach through email **otienor986@gmail.com**
 
 - 📄 My resume [https://docs.google.com/document/d/1Lopw_6iKwp6oFByaOr-iN2ayy4ggKZpiugR1KNp7jjs/edit?usp=sharing](https://docs.google.com/document/d/1Lopw_6iKwp6oFByaOr-iN2ayy4ggKZpiugR1KNp7jjs/edit?usp=sharing)
 
