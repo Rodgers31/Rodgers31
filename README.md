@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodgers</h1>
 <h3 align="center">A passionate web developer from North Carolina with comprehensive knowledge of platform development, agile methodologies, cloud services, front-end and server-side application development.</h3>
 
-- 🔭 I’m currently working on [Coder Heros](https://github.com/Lambda-School-Labs/coder-heroes-fe)
+- 🔭 I’m currently working at Northwestern Mutual
 
 - 🌱 I’m currently learning **React Native, Swift**
 
