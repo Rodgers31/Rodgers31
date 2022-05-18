@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Swift**
 
-- 💬 Ask me about **React, CSS, Responsive Design, Javascript, Sematic HTML**
+- 💬 Ask me about **React, CSS, Responsive Design, Javascript, Sematic HTML, Mainframe development**
 
 - 📫 You can reach through email **otienor986@gmail.com**
 
