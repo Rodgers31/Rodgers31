@@ -9,7 +9,7 @@
 
 - 📫 You can reach through email **otienor986@gmail.com**
 
-- 📄 My resume [https://docs.google.com/document/d/1Lopw_6iKwp6oFByaOr-iN2ayy4ggKZpiugR1KNp7jjs/edit?usp=sharing](https://docs.google.com/document/d/1Lopw_6iKwp6oFByaOr-iN2ayy4ggKZpiugR1KNp7jjs/edit?usp=sharing)
+- 📄 My resume [https://docs.google.com/document/d/1Lopw_6iKwp6oFByaOr-iN2ayy4ggKZpiugR1KNp7jjs/edit?usp=sharing](https://docs.google.com/document/d/1wWF61baTpAkALuKayZZFdgm-T7C6OwqE5_SnOcbMuiw/edit?usp=sharing)
 
 - ⚡ Fun fact **I can speak 4 languages**
 
