@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rodgers-otieno-2b649b209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodgers-otieno-2b649b209/" height="30" width="40" /></a>
-<p href="https://www.rodgers-portfolio.com/" target="blank"><img align="center" alt="https://www.rodgers-portfolio.com/" height="30" width="40" /></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
