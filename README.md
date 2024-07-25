@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rodgers-otieno-2b649b209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodgers-otieno-2b649b209/" height="30" width="40" /></a>
-<a href="https://www.rodgers-portfolio.com/" target="blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACdUlEQVR4nO2Yu2sVQRTGf4mvItpFDRrxAWKjYGFlY1IIaUQUOyWiUfwLRFPG2IsgCAEJBA3RIAlqZSWx0sIHWKnRQrAQBPPykagjA9/V4XJz3b2Zdc/KfjAQdr/55nz3TM6cHSjxf6IdGAWmAZdweO5tYDuGTHxMYaB6+LkbMYBRBXQ3ZUCee09zb2IA0wqmkV91k+Z+wgCcRl7zo6E0knVG1gH9wFNgdgnVKPaYBZ4AF4C1fzNxJOVZkNeYAg7XM/FTxDFgH9CCHbQAHcC4YvwBHKq1nSqZOIt9nAvKdmv4oj/IRFFwRzH3hQ+f6aHfTkVBp2L2BeA3ZvRwNcXBmqD5zKyWb1PKHwAfgG/AfaCZuHDVcccy4gO9CMzXKZu+dd+JcSNXpfMdGAaOAXuAo8DnYB3/9wGrRjqlMVOnaGwFbgQn9WaLRkZSnEOVQ+2KRSPvpLElAXeXuJMWjXyVxsoE3FXifrFo5E2KjLSL6+eYMzIojTMJuN3iXrdo5Lk0Dibg7hf3pUUjk9LYnYC7Q9z3Fo0MSOOt/pkXw3JlwnOHLBppBV4k6KL3iuO34nqrLUqfdG4lODh7I6znsjKyAZiTVk+N9z1Br9Vm2YjHiSDYalQax5PEgcvSSD29zNdxERfokJZvWRZrYzzHpJFmoEs38wvSulSDd1nvFsTtWuJXo4tp5DjwOtCY122gPy+qsUI3NuEX5Cu1LI0gipEm4Fow15/s5xNWozZxK92Ak1ZTHkZOB9/h3Q1ukWWaOyWtU3kYeRzxYOuV1qM8jISXCbHGXB5GHmZgZCIPIxbgSiPG4MqMFCUjrqAj01L6r8bEHxslMINfUhMWFHEy3bQAAAAASUVORK5CYII=" alt="https://www.rodgers-portfolio.com/" height="30" width="40" /></a>
+<a href="https://www.rodgers-portfolio.com/" target="blank"><img align="center" alt="https://www.rodgers-portfolio.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
