@@ -20,7 +20,7 @@
 
 <ul>
   <li>🔭 I'm currently working at Northwestern Mutual</li>
-  <li>🌱 I'm currently learning React Native, Swift</li>
+  <li>🌱 I'm currently learning Flutter and Swift</li>
   <li>💬 Ask me about React, CSS, Responsive Design, JavaScript, Semantic HTML, Mainframe development</li>
   <li>🌐 Portfolio: <a href="https://www.rodgers-portfolio.com/" target="_blank" rel="noopener noreferrer">https://www.rodgers-portfolio.com/</a></li>
   <li>📫 You can reach me at <a href="mailto:otienor986@gmail.com" target="_blank" rel="noopener noreferrer">otienor986@gmail.com</a></li>
@@ -73,7 +73,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodgers31&show_icons=true&locale=en&theme=transparent" alt="GitHub stats" />
 </p>
 
-<p align="left">Open to collaboration and freelance opportunities.</p>
+<p align="left">Let's create something amazing together. I'd love to hear about your project, or just say hello!</p>
 
 </body>
 </html>
