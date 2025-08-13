@@ -24,7 +24,7 @@
   <li>💬 Ask me about React, CSS, Responsive Design, JavaScript, Semantic HTML, Mainframe development</li>
   <li>🌐 Portfolio: <a href="https://www.rodgers-portfolio.com/" target="_blank" rel="noopener noreferrer">https://www.rodgers-portfolio.com/</a></li>
   <li>📫 You can reach me at <a href="mailto:otienor986@gmail.com" target="_blank" rel="noopener noreferrer">otienor986@gmail.com</a></li>
-  <li>📄 My resume: <a href="https://docs.google.com/document/d/1Lopw_6iKwp6oFByaOr-iN2ayy4ggKZpiugR1KNp7jjs/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume</a></li>
+  <li>📄 My resume: <a href="https://www.rodgers-portfolio.com/resume" target="_blank" rel="noopener noreferrer">View Resume</a></li>
   <li>⚡ Fun fact: I can speak 4 languages</li>
 </ul>
 
